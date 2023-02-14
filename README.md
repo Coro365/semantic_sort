@@ -4,6 +4,9 @@ Sorts strings containing numbers in a semantic way.
 This gem was created to practice gem creation.  
 We recommend the following mainstream gems that have the same functionality.  
 - https://github.com/rwz/natural_sort
+
+Created based on my gist.  
+- https://gist.github.com/Coro365/a76951bf0bca982df3919efe304423f1
   
 ## Installation
 `gem install semantic_sort`
